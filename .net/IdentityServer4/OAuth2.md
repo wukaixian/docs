@@ -24,7 +24,7 @@ OAuth在"客户端"与"服务提供商"之间，设置了一个授权层（autho
 
 ### 三、运行流程
 
-![flow](D:\Github\docs\.net\IdentityServer4\flow.png)
+![flow](images/flow.png)
 
 A.用户打开客户端以后，客户端要求用户给予授权
 
@@ -51,7 +51,7 @@ F.资源服务器确认令牌无误，同意向客户端开放资源
 
 授权码模式（authorization code）是功能最完整、流程最严密的授权模式。它的特点就是通过客户端的后台服务器，与"服务提供商"的认证服务器进行互动。
 
-![authoriztion code flow](D:\Github\docs\.net\IdentityServer4\authoriztion_code.png)
+![authoriztion code flow](images/authoriztion_code.png)
 
 它的步骤如下：
 
@@ -141,7 +141,7 @@ grant_type=authorization_code&code=SplxlOBeZQQYbYS6WxSbIA
 
 简化模式（implicit grant type）不通过第三方应用程序的服务器，直接在浏览器中向认证服务器申请令牌，跳过了"授权码"这个步骤，因此得名。所有步骤在浏览器中完成，令牌对访问者是可见的，且客户端不需要认证。
 
-![implicit mode](D:\Github\docs\.net\IdentityServer4\implicit_mode.png)
+![implicit mode](images/implicit_mode.png)
 
 
 
