@@ -8,7 +8,7 @@
   [or]
   when matched then 
   	update t.name=s.name
-  when not matched then insert
+  when not matched then insert;
   ```
 
 - ### partition by （组内排序）
