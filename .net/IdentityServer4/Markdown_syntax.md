@@ -9,8 +9,6 @@
    ...
    ```
 
-   
-
 2. Emphasis（强调）
 
    ```markdown
@@ -63,4 +61,70 @@
 
    > Markdown is great!
 
-7. 
+7. code
+
+   ```markdown
+   inline code:
+   I thank you should use an 
+   `<addr>` element here instead
+   
+   block code:
+   ​```javascript
+   js code here
+   ​```
+   ```
+
+   hello,this is `inline` code
+
+8. Task Lists
+
+   ```markdown
+   - [x] Item1
+   - [] Item2
+   ```
+
+   - [x] Item1
+   - [ ] Item2
+
+9. Tables
+
+   ```markdown
+   | head1 | head2 | head 3 |
+   | ----- | ----- | ------ |
+   | cell1 | cell2 | cell3  |
+   ```
+
+   | name | idcard | age  |
+   | ---- | ------ | ---- |
+   | andy | xxx    | 20   |
+   | 233  | 23423  | 18   |
+
+10. Footnotes
+
+    ```markdown
+    You can create footnotes like [^footnote].
+    ```
+
+    You can create footenotes like [^footnote]
+
+    测试一个标注[^张大锤]
+
+11. 水平线
+
+    ```markdown
+    ***
+    or 
+    ___
+    ```
+
+    
+
+12. 删除线
+
+    ```markdown
+    ~~delete line ~~
+    ```
+
+    ~~delete~~
+
+13. 
