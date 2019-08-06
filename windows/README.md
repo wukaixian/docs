@@ -17,7 +17,7 @@ md dirName
 del dirName 
 
 # netstat
-netstat -tulp
+netstat -tulnp
 ```
 
 
