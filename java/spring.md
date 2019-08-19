@@ -105,7 +105,6 @@
           <appender-ref ref="RollingFile"/>
           <appender-ref ref="Console"/>
       </logger>
-  
   </configuration>
   ```
 
