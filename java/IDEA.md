@@ -2,13 +2,21 @@
 
 ### live template（代码模板、代码块）
 
+| shortcut    | description       |
+| ----------- | ----------------- |
+| iter+tab    | foreach statement |
+| ctrl+alt+<- | prev position     |
+|             |                   |
+
+
+
 * iter foreach template
 
 
 
 ## Debug
 
-| shortcut key     | description                                              |
+| shortcut         | description                                              |
 | ---------------- | -------------------------------------------------------- |
 | Shift+F9         | 进入调试                                                 |
 | Shift+F10        | 直接运行，不调试                                         |
