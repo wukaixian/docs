@@ -1,12 +1,11 @@
 ## shortcut
 
-### live template（代码模板、代码块）
-
-| shortcut    | description       |
-| ----------- | ----------------- |
-| iter+tab    | foreach statement |
-| ctrl+alt+<- | prev position     |
-|             |                   |
+| shortcut     | description                      |
+| ------------ | -------------------------------- |
+| iter+tab     | foreach statement，live template |
+| ctrl+alt+<-  | prev position                    |
+| ctrl+shift+- | 折叠代码                         |
+| ctrl+shift++ | 展开代码                         |
 
 
 
@@ -30,6 +29,7 @@
 | Ctrl+Shift+F8    | 指定断点条件进入                                         |
 | Drop Frame       | 回退重来（IDEA的一个按钮）                               |
 | Mute Breakpoints | 禁用所有断点（IDEA功能）                                 |
+|                  |                                                          |
 
 
 
