@@ -1,11 +1,11 @@
 ## shortcut
 
-| shortcut     | description                      |
-| ------------ | -------------------------------- |
-| iter+tab     | foreach statement，live template |
-| ctrl+alt+<-  | prev position                    |
-| ctrl+shift+- | 折叠代码                         |
-| ctrl+shift++ | 展开代码                         |
+| shortcut    | description                      |
+| ----------- | -------------------------------- |
+| iter+tab    | foreach statement，live template |
+| ctrl+alt+<- | prev position                    |
+| ctrl+-      | 折叠代码                         |
+| ctrl++      | 展开代码                         |
 
 
 
