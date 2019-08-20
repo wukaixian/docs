@@ -1,11 +1,15 @@
 ## shortcut
 
-| shortcut    | description                      |
-| ----------- | -------------------------------- |
-| iter+tab    | foreach statement，live template |
-| ctrl+alt+<- | prev position                    |
-| ctrl+-      | 折叠代码                         |
-| ctrl++      | 展开代码                         |
+| shortcut    | description                                      |
+| ----------- | ------------------------------------------------ |
+| iter+tab    | foreach statement，live template                 |
+| ctrl+alt+<- | prev position                                    |
+| ctrl+-      | 折叠代码                                         |
+| ctrl++      | 展开代码                                         |
+| shift*2     | search everywhere                                |
+| ctrl+o      | override method                                  |
+| ctrl+i      | implement                                        |
+| alt+insert  | generate common methods,such as ctor,test method |
 
 
 
