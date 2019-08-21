@@ -25,6 +25,9 @@ top [-u]
 # *.tar file unpack
 tar -xvf fileName.tar  #tar文件非压缩文件，只是打包文件（将多个文件包装为一个文件）
 
+# 文件夹大小,disc usage
+du -sh dir
+
 ```
 
 
