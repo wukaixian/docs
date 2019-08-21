@@ -28,6 +28,15 @@ tar -xvf fileName.tar  #tar文件非压缩文件，只是打包文件（将多�
 # 文件夹大小,disc usage
 du -sh dir
 
+# 行数
+ll | wc -l
+cat file | wc -l
+
+# 删除文件
+rm -f *.html
+
+# 删除所有文件
+rm  -rf dir/
 ```
 
 
