@@ -1,17 +1,36 @@
 ## shortcut
 
-| shortcut    | description                                      |
-| ----------- | ------------------------------------------------ |
-| iter+tab    | foreach statement，live template                 |
-| ctrl+alt+<- | prev position                                    |
-| ctrl+-      | 折叠代码                                         |
-| ctrl++      | 展开代码                                         |
-| shift*2     | search everywhere                                |
-| ctrl+o      | override method                                  |
-| ctrl+i      | implement                                        |
-| alt+insert  | generate common methods,such as ctor,test method |
+| shortcut     | description                                          |
+| ------------ | ---------------------------------------------------- |
+| iter+tab     | foreach statement，live template                     |
+| ctrl+alt+<-  | prev position                                        |
+| ctrl+-       | 折叠代码                                             |
+| ctrl++       | 展开代码                                             |
+| shift*2      | search everywhere                                    |
+| ctrl+o       | override method                                      |
+| ctrl+i       | implement                                            |
+| alt+insert   | generate common methods,such as ctor,test method     |
+| ctrl+R       | search and replace                                   |
+| ctrl+alt+m   | move to method                                       |
+| Alt+Insert   | in pom.xml search dependency and add dependency node |
+| ctrl+shift+U | taggle case（uppercase or lowercase）                |
 
 
+
+### Function Shortcut
+
+| shortcut | description                                          |
+| -------- | ---------------------------------------------------- |
+| F2       | next tips                                            |
+| F3       | search,equal Ctrl+F                                  |
+| F4       | go to definition                                     |
+| F5       | Copy class                                           |
+| F6       | Move object                                          |
+| F7       | on debug mode,go to next step                        |
+| F8       | on debug mode,go to next step,don't into function    |
+| F9       | on debug mode,go to next breakpoints,or run continue |
+| F11      | bookmark 书签,or use [Ctrl+F11]()                    |
+| F12      | open bottom panel                                    |
 
 * iter foreach template
 
