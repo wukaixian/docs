@@ -46,3 +46,24 @@
 
   
 
+## 语言版本问题
+
+* ctrl+shift+alt+s 打开项目设置，设置模块语言版本
+* 如果是maven项目，设置maven的编译插件
+
+``` xml
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.6.1</version>
+            <configuration>
+                <source>12</source>
+                <target>12</target>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
+```
+
