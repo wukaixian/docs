@@ -16,11 +16,17 @@
     <artifactId>commons-io</artifactId>
     <version>2.6</version>
 </dependency>
-
-
 ```
 
 
 
+## google guava
 
+```xml
+<dependency>
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava</artifactId>
+  <version>28.0-jre</version>  
+</dependency>
+```
 
