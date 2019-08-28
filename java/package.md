@@ -30,3 +30,8 @@
 </dependency>
 ```
 
+* 类型默认值 default(T)
+
+  > base.Defaults
+
+* 
